@@ -9,7 +9,7 @@ Description: A class to convert Celsius to Fahrenheit
 package pkgUnitConverter;
 /**
  * class to convert Celsius to Fahrenheit
- * @author kriger
+ * @author wanguohui
  */
 public class CFconverter implements Converter {
         /**

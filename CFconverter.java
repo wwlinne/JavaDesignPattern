@@ -1,9 +1,6 @@
 /*
 File: CFconverter.java
-Student Name: Guohui Wan
-Student Number: 041059351
-Course & Section: 23S_CST8288_021
-Professor: Siju Philip
+Name: Guohui Wan
 Declaration: This is my own original work and is free from Plagiarism.
 Modified: 2023, May 17th
 Date: 2023, May 16th
